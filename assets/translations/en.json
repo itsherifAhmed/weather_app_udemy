@@ -1,0 +1,27 @@
+{
+  "weather_app": "Weather App",
+  "about_app": "About application",
+  "created_by": "created by",
+  "author_name": "Ahmed Sherif",
+  "using_flutter": "using Flutter",
+  "version": "version",
+  "not_specified": "Not specified",
+  "more": "More",
+  "hourly_weather": "Hourly weather",
+  "weather_by_day": "Weather by day",
+  "something_went_wrong": "Something went wrong",
+  "month": {
+    "jan": "Jan",
+    "feb": "Feb",
+    "mar": "Mar",
+    "apr": "Apr",
+    "may": "May",
+    "jun": "Jun",
+    "jul": "Jul",
+    "aug": "Aug",
+    "sept": "Sept",
+    "oct": "Oct",
+    "nov": "Nov",
+    "dec": "Dec"
+  }
+}

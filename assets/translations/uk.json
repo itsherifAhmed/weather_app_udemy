@@ -1,0 +1,27 @@
+{
+  "weather_app": "Weather App",
+  "about_app": "Про додаток",
+  "created_by": "Ahmed Sherif",
+  "author_name": "Ahmed Sherif",
+  "using_flutter": "використовуючи Flutter",
+  "version": "версія",
+  "not_specified": "не вказано",
+  "more": "Більше",
+  "hourly_weather": "Погодинна погода",
+  "weather_by_day": "Погода по днях",
+  "something_went_wrong": "Щось пішло не так",
+  "month": {
+    "jan": "Січ",
+    "feb": "Лют",
+    "mar": "Бер",
+    "apr": "Квіт",
+    "may": "Трав",
+    "jun": "Чер",
+    "jul": "Лип",
+    "aug": "Серп",
+    "sept": "Вер",
+    "oct": "Жовт",
+    "nov": "Лист",
+    "dec": "Груд"
+  }
+}
