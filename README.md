@@ -2,43 +2,43 @@
 <br />
 <div align="center">
   <a href="https://github.com/itsherifAhmed">
-    <img src="assets/quran.png" alt="Logo" width="100" height="100">
+    <img src="assets/png/app_icon.png" alt="Logo" width="100" height="100">
   </a>
 
 ![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
-<h3 align="center">El Quran ElKareem</h3>
+<h3 align="center">Weather App</h3>
 
   <p align="center">
-    El Quran ElKareem shared local DB and Local Json
+    Weather App With Clean Arch And MVVM Pattern in presentation layer
+    with Provider As State Mang
     <br />
-    <a href="https://github.com/itsherifAhmed/quran_kareem"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/itsherifAhmed/weather_app_udemy"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/itsherifAhmed/quran_kareem">View Demo</a>
+    <a href="https://github.com/itsherifAhmed/weather_app_udemy">View Demo</a>
     ·
-    <a href="https://github.com/itsherifAhmed/quran_kareem">Report Bug</a>
+    <a href="https://github.com/itsherifAhmed/weather_app_udemy">Report Bug</a>
     ·
-    <a href="https://github.com/itsherifAhmed/quran_kareem">Request Feature</a>
+    <a href="https://github.com/itsherifAhmed/weather_app_udemy">Request Feature</a>
   </p>
 </div>
 
 
 
-El Quran El Kareem app is open-source  app for Android & ios. It is built with Dart on top of Google's Flutter Framework.
+weather_app_udemy app is open-source  app for Android & ios. It is built with Dart on top of Google's Flutter Framework.
 
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png">
 
 
 
 
-<p><img src="snapshot/big.png" /></p>
-<p align="center"><b>تطبيق القران الكريم</b></p>
-
-
 ##:rocket: youtube Tutorial
-
+- Money App with Getx Link: [Money](https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/?referralCode=21E9E4CF86DE5607FEA1)
+- Valorant App Cubit App  Link: [Valo](https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/?referralCode=21E9E4CF86DE5607FEA1)
+- Weather App by Provider Link: [Weather](https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/?referralCode=21E9E4CF86DE5607FEA1)
+- cubit Movie Link: [Movie](https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/?referralCode=21E9E4CF86DE5607FEA1)
 - El Quran ElKareem App by GetX Link: [Quran](https://www.youtube.com/watch?v=Mb10ndQn3yQ&list=PLI36SLicSOmKlHGZRFBl153PHsyAhRF5M)
 - Ahadith App by GetX Link: [Ahadith](https://www.youtube.com/watch?v=bHVremPtgNo&t=3668s&ab_channel=SecitDevelopers)
 - Youtube App by GetX Link: [youtube](https://www.youtube.com/watch?v=WlEgZKKd_xY&list=PLI36SLicSOmLSQCD1Ccw7gazmeBlcAsAj&index=14)
@@ -59,19 +59,29 @@ El Quran El Kareem app is open-source  app for Android & ios. It is built with D
 
 ## Benfit👻
 - [🖥] # Screens 🖥
-- [🆗]  HomeScreen
-- [🆗] Surah Screen
-- [🆗] Setting Screen
+- [🆗]  Splash Screen
+- [🆗]  Home Screen
+- [🆗] Top Up
+- [🆗] pay
+- [🆗] to whom
+- [🆗] Transactions Details
 --------------------------------
 - [🖥] # Deal With 🖥
-- [x] Deal With Shared Prefs
-- [x] Deal With rootBundle
-- [x] Deal With local json 
+- [x] Deal With Getx
+- [x] Deal With Get_Storage
+- [x] Deal With Clean Arch
 
 ------------------------------
 
 
 ## Other Flutter Projects 🔐
+- [Valorant app Udemy](https://github.com/itsherifAhmed/valorant_cubit_game_udemy)
+- [Weather App Udemy](https://github.com/itsherifAhmed/weather_app_udemy)
+- [Cubit Movie Udemy](https://github.com/itsherifAhmed/cubit_movie-udemy)
+- [Money App Udemy](https://github.com/itsherifAhmed/money_app_udemy)
+
+
+
 - [face generator app](https://github.com/itsherifAhmed/face-generator)
 - [screen shot lock  ](https://github.com/itsherifAhmed/screen_shot)
 - [bg remover app](https://github.com/itsherifAhmed/bg-remover)
@@ -99,19 +109,19 @@ El Quran El Kareem app is open-source  app for Android & ios. It is built with D
 ## Snapshots
 
 
-| Splash Screen | homw screen Screen                        |
+| Splash Screen | home screen Screen                        |
 |------|-------------------------------------------|
-|<img src="snapshot/splash.jpg" width="400">| <img src="snapshot/home.jpg" width="400"> |
+|<img src="assets/splash.jpg" width="400">| <img src="assets/home.jpg" width="400"> |
 
 
-| drawer                                      | setting  Page                                |
+| permission                                     | About  Page                                |
 |---------------------------------------------|----------------------------------------------|
-| <img src="snapshot/drawer.jpg" width="400"> | <img src="snapshot/setting.jpg" width="400"> |
+| <img src="assets/permission.jpg" width="400"> | <img src="assets/about.jpg" width="400"> |
 
 
-| View One                                     | View Two  Page                               |
+| Wrong Screen                                    | Data hourly Page                               |
 |----------------------------------------------|----------------------------------------------|
-| <img src="snapshot/viewone.jpg" width="400"> | <img src="snapshot/viewtwo.jpg" width="400"> |
+| <img src="assets/wrong.jpg" width="400"> | <img src="assets/home.jpg" width="400"> |
 
 
 
